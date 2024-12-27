@@ -1,8 +1,8 @@
-## Django
+# Django
 
 This repository contains my notes and learning resources on Django, a powerful Python web framework. As I continue to learn and experiment with Django, I store my notes here for easy access and future reference. The notes cover various topics, from basic to advanced concepts, as I progress through the learning journey.
 
-#### What actually is Django?
+**What actually is Django?**
 
 Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 
@@ -18,12 +18,12 @@ Django posses the following characteristics what makes it beneficial to use.
 * Secure
 * Scalable
 
-## Table of contents
+### Table of contents
 
 * [Introduction](./)
 * [Setting up the environment](setting-up-the-environment.md)
 
-### Basics of Django
+#### Basics of Django
 
 * [Creating apps](basics-of-django/creating-apps.md)
 * [Creating Views and URL's](basics-of-django/creating-views-and-urls.md)
@@ -59,10 +59,10 @@ Django posses the following characteristics what makes it beneficial to use.
 * [Register model to admin](register-model-to-admin.md)
 * [Dynamic About Us page](dynamic-about-us-page.md)
 
-### License
+#### License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE/) file for details.
 
-### Contributing
+#### Contributing
 
 Feel free to fork this repository and submit pull requests if you have any suggestions or improvements.
