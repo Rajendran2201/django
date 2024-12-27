@@ -1,5 +1,3 @@
-# README
-
 ## Django
 
 This repository contains my notes and learning resources on Django, a powerful Python web framework. As I continue to learn and experiment with Django, I store my notes here for easy access and future reference. The notes cover various topics, from basic to advanced concepts, as I progress through the learning journey.
