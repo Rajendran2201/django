@@ -1,6 +1,3 @@
----
-icon: code
----
 
 # Introduction
 
